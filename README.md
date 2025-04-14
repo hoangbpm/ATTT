@@ -11,3 +11,10 @@
    - Dòng 2: `key: "xxxxxxxxxxxxxxxx"` (16 ký tự trong dấu ngoặc kép)
    
    Ví dụ:
+    plaintext: "Hello, World!123"
+    key: "mysecretpassword"
+
+
+2. **Biên dịch mã nguồn:**
+```bash
+gcc -o aes aes.c
