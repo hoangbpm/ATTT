@@ -11,8 +11,8 @@
    - Dòng 2: `key: "xxxxxxxxxxxxxxxx"` (16 ký tự trong dấu ngoặc kép)
    
    Ví dụ:
-    plaintext: "Hello, World!123"
-    key: "mysecretpassword"
+    plaintext: "abcdef1234567890"
+    key: "kkkkeeeeyyyy...."
 
 
 2. **Biên dịch mã nguồn:**
