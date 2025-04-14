@@ -1,0 +1,2 @@
+plaintext: "abcdef1234567890"
+key: "kkkkeeeeyyyy...."
